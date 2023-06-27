@@ -3,3 +3,18 @@ body {
   width: 1100px;
   margin: 0 auto;
 }
+
+.heading_grilled,
+.heading_hash,
+.heading_tater {
+  text-align: center;
+  margin-bottom: 5px;
+  padding: 20px;
+  background-color: #476072;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
